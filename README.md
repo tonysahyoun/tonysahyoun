@@ -15,5 +15,5 @@ A passionate **Computer and Communication Engineering** graduate focused on buil
 * **Tools & Platforms:** Git/GitHub, VS Code, Linux/Unix
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Insert your Link]
-* **Email:** [Insert your Email]
+* **LinkedIn:** https://www.linkedin.com/in/tony-sahyoun-853aa9281/
+* **Email:** tonyjsahyoun@hotmail.com
